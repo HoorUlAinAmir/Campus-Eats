@@ -1,0 +1,24 @@
+/* App.css */
+
+/* General styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+/* Link reset */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+  .specials-container {
+    grid-template-columns: 1fr;
+  }
+}
