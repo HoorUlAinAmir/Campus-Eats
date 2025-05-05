@@ -24,3 +24,5 @@ Make sure you have the following installed on your system:
 ```bash
 npm install
 npm start
+npm test
+npm install
